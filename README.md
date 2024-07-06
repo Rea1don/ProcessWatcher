@@ -24,6 +24,8 @@ This tool enhances monitoring capabilities, aiding in real-time threat detection
 
 ## License Key : root
 
+## Requriment Visual C++ Redistributable for Visual Studio ![Here](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
+
 ## Reason for Authentication System
 
 To facilitate automatic updates when new versions are available.
