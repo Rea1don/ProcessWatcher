@@ -33,4 +33,4 @@ To facilitate automatic updates when new versions are available.
 ## Credits
 
 Coded By: Me  
-Supported By: Asrar
+
