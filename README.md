@@ -1,20 +1,28 @@
 # ProcessWatcher
 
-https://github.com/Rea1don/ProcessWatcher/blob/main/1.png
+![ProcessWatcher Screenshot](https://github.com/Rea1don/ProcessWatcher/blob/main/1.png)
 
-# Overview:
+## Overview
+
 This tool monitors and provides detailed insights into newly created processes on Windows systems, enabling real-time monitoring and analysis.
 
-Features:
+## Features
 
-- Real-time Monitoring: Provides visibility into new process creations.
-- Process Details: Obtains comprehensive information about each process, including its name, process ID, parent process, and command line details.
-- Detect Process Injection: Identifies processes involved in code injection activities, crucial for detecting and analyzing malware behavior.
+- **Real-time Monitoring:** Provides visibility into new process creations.
+- **Process Details:** Obtains comprehensive information about each process, including its name, process ID, parent process, and command line details.
+- **Detect Process Injection:** Identifies processes involved in code injection activities, crucial for detecting and analyzing malware behavior.
 
 This tool enhances monitoring capabilities, aiding in real-time threat detection and facilitating in-depth analysis of process activities, particularly useful for cybersecurity and malware analysis on Windows platforms.
 
-License Key: root
+## License Key
 
-# Reason for Authentication System: To facilitate automatic updates when new versions are available.
+root
 
-Coded By : Me Supported By: Asrar
+## Reason for Authentication System
+
+To facilitate automatic updates when new versions are available.
+
+## Credits
+
+Coded By: Me  
+Supported By: Asrar
