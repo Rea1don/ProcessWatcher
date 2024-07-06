@@ -15,5 +15,5 @@ License Key: root
 
 # Reason for Authentication System: To facilitate automatic updates when new versions are available.
 
-Coded By : 
+Coded By : Me \n
 Supported By: Asrar
