@@ -22,9 +22,7 @@ This tool enhances monitoring capabilities, aiding in real-time threat detection
 ![Screenshot 3](https://media.discordapp.net/attachments/1250477114470305872/1258960212811841596/3.png?ex=6689f191&is=6688a011&hm=97cbcb1c3cb520ba9efce45e264fe36c019d60661062dda0bb713eac3538e8e4&=&format=webp&quality=lossless&width=830&height=566)
 ![Screenshot 4](https://media.discordapp.net/attachments/1250477114470305872/1258960213327876217/4.png?ex=6689f191&is=6688a011&hm=aab71448b821c8ce36d0b613ee964279c63373a9e801913f5cb756446fd11381&=&format=webp&quality=lossless)
 
-## License Key
-
-root
+## License Key : root
 
 ## Reason for Authentication System
 
