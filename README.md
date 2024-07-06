@@ -1,6 +1,6 @@
 # ProcessWatcher
 
-![Screenshot 1](https://media.discordapp.net/attachments/1250477114470305872/1258960212094615632/1.png?ex=6689f190&is=6688a010&hm=c1fd4344d7ce88da322eb29bd869ff08917c6d195c6c6c9c25d23b663e382f7e&=&format=webp&quality=lossless&width=1080&height=506)
+![Screenshot 1](https://media.discordapp.net/attachments/1250477114470305872/1259167346304618557/2.png?ex=668ab279&is=668960f9&hm=8d4557f2e7b3ff78e98cbf849412886b2597465068e6a3b794eadb9a4b7b422c&=&format=webp&quality=lossless)
 
 ## Overview
 
@@ -18,9 +18,9 @@ This tool enhances monitoring capabilities, aiding in real-time threat detection
 
 
 
-![Screenshot 2](https://media.discordapp.net/attachments/1250477114470305872/1258960212438679642/2.png?ex=6689f190&is=6688a010&hm=a8b6b10a185ea6f4c65f60aa7db03bc2969626140262bfee360aa336ad34142f&=&format=webp&quality=lossless&width=824&height=566)
-![Screenshot 3](https://media.discordapp.net/attachments/1250477114470305872/1258960212811841596/3.png?ex=6689f191&is=6688a011&hm=97cbcb1c3cb520ba9efce45e264fe36c019d60661062dda0bb713eac3538e8e4&=&format=webp&quality=lossless&width=830&height=566)
-![Screenshot 4](https://media.discordapp.net/attachments/1250477114470305872/1258960213327876217/4.png?ex=6689f191&is=6688a011&hm=aab71448b821c8ce36d0b613ee964279c63373a9e801913f5cb756446fd11381&=&format=webp&quality=lossless)
+![Screenshot 2](https://media.discordapp.net/attachments/1250477114470305872/1259167346304618557/2.png?ex=668ab279&is=668960f9&hm=8d4557f2e7b3ff78e98cbf849412886b2597465068e6a3b794eadb9a4b7b422c&=&format=webp&quality=lossless)
+![Screenshot 3](https://media.discordapp.net/attachments/1250477114470305872/1259167345830793309/3.png?ex=668ab279&is=668960f9&hm=5b2de75fa001d145b4a02a8fdaf1dbc5a82a1ad5c1005625b8bd2aedb986f5f8&=&format=webp&quality=lossless&width=787&height=566)
+![Screenshot 4](https://cdn.discordapp.com/attachments/1250477114470305872/1259168651852910682/4.png?ex=668ab3b0&is=66896230&hm=62d32924c5a59fd4ddde8b1c0e3bcb3c85ce4a0675d047e24610e86d950d88dc&)
 
 ## License Key : root
 
